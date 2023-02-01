@@ -1,0 +1,7 @@
+.idea
+.gradle
+/.coursecreator/
+/**/build
+/**/out
+/course-remote-info.yaml
+/Introduction/lesson-remote-info.yaml

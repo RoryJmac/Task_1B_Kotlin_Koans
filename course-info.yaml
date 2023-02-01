@@ -1,0 +1,10 @@
+title: Task 1B Kotlin Koans Selection
+language: English
+summary: |-
+  This is a selection of the Kotlin Koans that allows you to focus on only those elements that you need to know at this point. The full Kotlin Koans are available through edutools or the website https://kotlinlang.org/docs/tutorials/koans.html
+  Kotlin Koans are a series of exercises to get you familiar with the Kotlin syntax
+programming_language: Kotlin
+content:
+- Introduction
+- Additional features
+mode: Study
